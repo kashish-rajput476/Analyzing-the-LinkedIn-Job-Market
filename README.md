@@ -1,4 +1,4 @@
-LinkedIn Data Analysis 📊
+### LinkedIn Data Analysis 📊
 This project analyzes LinkedIn data to uncover insights about user engagement, job trends, network growth, and industry patterns. Using Python, Pandas, NumPy, Matplotlib, and Power BI, I performed data cleaning, exploratory data analysis (EDA), and visualization to derive meaningful conclusions.
 
 Key Highlights:
@@ -10,7 +10,7 @@ Key Highlights:
 Technologies Used:
 🔹 Python (Pandas, NumPy, Matplotlib)
 🔹 Power BI
-🔹 SQL (if applicable)
+🔹 SQL (if applicable) 
 
 🚀 Check out the repository to explore the data-driven insights!
 
